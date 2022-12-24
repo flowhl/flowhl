@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭C# | WPF | NodeJS | SQL <br>🖌️Ex Freelance Graphics Designer<br>🎮R6 Siege Player<br>💭Currently Working on XStrat
+🔭C# | WPF | NodeJS | SQL | Svelte <br>🖌️Ex Freelance Graphics Designer<br>🎮R6 Siege Player<br>💭Currently Working on XStrat
 
 
 ## 🌐 Socials:
